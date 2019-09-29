@@ -26,7 +26,8 @@ I'm currently seeking full-time software engineering positions where I can apply
   * Tools: Twitter API, HTML, CSS, Bootstrap
 
 * HireHelper: Job-search Management
-  
+   
+   The following are only viewable on Wellesley's network:
 
    [Application Prototype](http://cs.wellesley.edu/~hirehelper/HireHelper/Landing.html)
    
