@@ -3,7 +3,7 @@
 <p> A place for me to share things I’ve done, things I’ve worked on, and things that are still under development. </p>
 
 ### About Me
-I'm passionate about developing user-centered products on both the back-end and front-end, and working through the entire process with a UX perspective to help design, create, and evaluate the final product. I am a keen problem-solver and always eager to learn from new resources and experiences.
+I am a senior at Wellesley College, studying Computer Science and Chinese. I'm passionate about developing user-centered products on both the back-end and front-end, and working through the entire process with a UX perspective to help design, create, and evaluate the final product. I am a keen problem-solver and always eager to learn from new resources and experiences.
 
 Outside of that, I enjoy learning languages, discussing health and wellness, reading exciting Wikipedia articles, and getting to work collaboratively with others.
 
