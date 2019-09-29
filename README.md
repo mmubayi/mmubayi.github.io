@@ -28,8 +28,8 @@ I'm currently seeking full-time software engineering positions where I can apply
 * HireHelper: Job-search Management
   
 
-   [Application Prototype](cs.wellesley.edu/~hirehelper/HireHelper/Landing.html)
+   [Application Prototype](http://cs.wellesley.edu/~hirehelper/HireHelper/Landing.html)
    
-   [UX Research & Design Process](cs.wellesley.edu/~hirehelper/team-site/teamsite.html)
+   [UX Research & Design Process](http://cs.wellesley.edu/~hirehelper/team-site/teamsite.html)
    
    * Tools: HTML, CSS, JavaScript, Bootstrap
