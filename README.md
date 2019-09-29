@@ -3,7 +3,13 @@
 <p> A place for me to share things I’ve done, things I’ve worked on, and things that are still under development. </p>
 
 ### About Me
-I'm a senior studying Computer Science and Chinese at Wellesley College. 
+I'm passionate about developing user-centered products on both the back-end and front-end, and working through the entire process with a UX perspective to help design, create, and evaluate the final product. I am a keen problem-solver and always eager to learn from new resources and experiences.
+
+Outside of that, I enjoy learning languages, discussing health and wellness, reading exciting Wikipedia articles, and getting to work collaboratively with others.
+
+I'm currently seeking full-time software engineering positions where I can apply the skills I've developed, as well as cultivate new skills by working on exciting products in a dynamic and engaging setting! 
+
+**_Get in touch_**: mmubayi@wellesley.edu
 
 ### Currently 
 * Developing my own code for this website
@@ -11,7 +17,19 @@ I'm a senior studying Computer Science and Chinese at Wellesley College.
 
 ### Projects
 * [Spyro: Computer Graphics](./spyro-graphics)
+  * Tools: JavaScript, THREE.js, HTML, CSS
 
 * [Vegetarian Food Website](./food-website)
+  * Tools: HTML, CSS
 
 * [Redesigning a Tweet](./tweet-redesign)
+  * Tools: Twitter API, HTML, CSS, Bootstrap
+
+* HireHelper: Job-search Management
+  
+
+   [Application Prototype](cs.wellesley.edu/~hirehelper/HireHelper/Landing.html)
+   
+   [UX Research & Design Process](cs.wellesley.edu/~hirehelper/team-site/teamsite.html)
+   
+   * Tools: HTML, CSS, JavaScript, Bootstrap
