@@ -23,12 +23,11 @@ I'm currently seeking full-time software engineering positions where I can apply
    A social computing research, design and development project.
 
    * [Social Network Prototype](https://anti-twitter.web.app/)
+   * (A bit slow to load content, please be patient (-: )
    
    * [Research & Design Process](http://cs.wellesley.edu/~323tmz/tmz-team/) (Note: this is currently only viewable on Wellesley's network)
    
    * Tools: JavaScript, HTML, CSS, Firebase
-   * (Slow to load content, please be patient (-: )
-
 
 * [Spyro: Computer Graphics](./spyro-graphics)
   * Tools: JavaScript, THREE.js, HTML, CSS
